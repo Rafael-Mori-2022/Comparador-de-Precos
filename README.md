@@ -13,7 +13,7 @@ Sob tal lógica, o passo-a-passo para o desdobramento do projeto foi dado por: p
 A utilização da aplicação é bem intuitiva! Basta o usuário baixar os arquivos do repositório e “rodar” o arquivo executável do programa, inserindo os dados nos campos requisitados e aguardando o trabalho do Bot. Há outra maneira de utilizar a aplicação, menos intuitiva porém funcional de mesmo modo, onde são baixados os arquivos e há a compilação e execução do próprio código fonte.
 
 ## Bugs/problemas conhecidos
-Os Bugs e problemas conhecidos de nosso projeto cerceiam a possibilidade de alterações de pathing, seja pela manutenção dos sites ou alterações nestes, e a necessidade de "reinicializar" a planilha incial quando for necessário alterar um produto, ou seja, quando se deseja procurar um produto diferente.
+Os Bugs e problemas conhecidos de nosso projeto cerceiam a possibilidade de alterações de pathing, seja pela manutenção dos sites ou alterações nestes, e a necessidade de "reinicializar" a planilha incial quando for necessário alterar um produto, ou seja, quando se deseja procurar um produto diferente. Além destes, é necessário, para um mesmo produto, rodar a aplicação 2 vezes, a fim de obter o funcionamento adequado!
 
 ## Autores
 * Erik Gabriel Rodrigo da Silva ([EriikGabriel](https://github.com/EriikGabriel)) - Implementador
